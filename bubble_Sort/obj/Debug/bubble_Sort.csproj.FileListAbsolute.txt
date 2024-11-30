@@ -1,0 +1,7 @@
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\obj\Debug\bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\obj\Debug\bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\bin\Debug\bubble_Sort.exe.config
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\bin\Debug\bubble_Sort.exe
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\bin\Debug\bubble_Sort.pdb
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\obj\Debug\bubble_Sort.exe
+C:\Users\welcome\Documents\oja6th_sem\netCentric\NET-Centric-Computing\bubble_Sort\obj\Debug\bubble_Sort.pdb
